@@ -1,4 +1,4 @@
-# Making A QR Code Generator Application
+# Making A QR Code Generator Web Application
 
 ### Learn how to create a simple QR Code Generator web application using basic HTML, CSS, and JavaScript. The steps below will guide you to the basic elements from the design of the web application to the JavaScript functionality.
 
