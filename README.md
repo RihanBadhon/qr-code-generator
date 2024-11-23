@@ -16,7 +16,8 @@
 ## style.css: css file contain the design and adjustment of        the web application
 ## script.js: JavaScript file containing the functionality & API
 
-#index.html
+
+# HTML: index.html
 
 ```
  <!DOCTYPE html>
@@ -36,7 +37,7 @@
 </html>
 ```
 
-# style.css
+# CSS: style.css
 
 ```
 body {
