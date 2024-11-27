@@ -39,7 +39,7 @@
 
 # CSS: style.css
 
-```
+```CSS
 body {
       background-image: url('../img/qr\ code\ background.avif');  
       background-size: cover;                    
@@ -67,7 +67,7 @@ body {
 ```
 # JavaScript: Define variables 
 
-```
+```JavaScript
 'use strict';
 
 let imgBox = document.getElementById("image-box");
