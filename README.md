@@ -81,7 +81,7 @@ let qrText = document.getElementById("qr-text");
 
 # JavaScript: Using function
 
-```
+```JavaScript
 function generateQR(){
   if(qrText.value.length > 0){
     // Using The qr code generator API below
@@ -94,7 +94,7 @@ function generateQR(){
 ```
 # if Condition
 
-```
+```javaScript
 if(qrText.value.length > 0){
     // Using The qr code generator API below
    qrImage.src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="
@@ -106,7 +106,7 @@ if(qrText.value.length > 0){
 
 # API: For generating the qr code
 
-```
+```JavaScript
 "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data="
 
 ```
