@@ -19,7 +19,7 @@
 
 # HTML: index.html
 
-```
+```Html
  <!DOCTYPE html>
     <html lang="en" dir="ltr">
     <head>
