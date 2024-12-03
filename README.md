@@ -17,7 +17,7 @@
 ## script.js: JavaScript file containing the functionality & API
 
 
-# HTML: index.html
+# HTML: Creating the structure of the Web application by aducting the background image, positioning the container at the center of the page also included input form and action button as well
 
 ```Html
  <!DOCTYPE html>
