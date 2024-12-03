@@ -3,7 +3,7 @@
 let imgBox = document.getElementById("image-box");
 let qrImage = document.getElementById("qr-image");
 let qrText = document.getElementById("qr-text");
-
+let errorMessage = document.getElementById("error-message")
 
 function generateQR(){
   if(qrText.value.length > 0){
@@ -13,4 +13,3 @@ function generateQR(){
    qrText.value = "";
   } 
 }
-
